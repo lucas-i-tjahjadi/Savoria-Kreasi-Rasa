@@ -1,3 +1,5 @@
 Application Prokom Sales and Commercial
   *Pembuatan Prokom
   *Pembuatan Data tambahan dokumen pendukung
+  *Revisi tidak menggunakan Radio Button pembuatan program agar mempermudah dalam penambahan dan pembuatan program
+  *Radio Button di ganti dengan Drop down untuk pilihan hanya 1 opsi
